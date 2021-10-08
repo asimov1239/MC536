@@ -7,14 +7,24 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `<referência bibliográfica do artigo>` |
-| link       | `<url para acesso à página do artigo ou PDF do mesmo>` |
-| dataset | `<link para o repositório público onde está hospedado o dataset>` |
-| formato | `<formato em que os arquivos são disponibilizados>` |
+| referência | `<https://sites.google.com/view/sbbd-dsw/artigos?authuser=0>` |
+| link       | `<https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view>` |
+| dataset | `<https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1>` |
+| formato | `<Arquivos CSV e PDF>` |
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
+> O CandiDATA é um dataset com propósito de acumular dados com relação à processos eleitorais na história do Brasil. Dentre os muitos valores encorporados pelo CandiDATA, estão:
+
+* Candidatos
+* Comparecimento e Abstenção
+* Eleitorado
+* Partidos
+* Pesquisas eleitorais
+* Prestação de contas eleitorais
+* Prestação de contas partidárias
+* Processual
+* Resultados
 
 ## Perguntas de pesquisa/análises
 

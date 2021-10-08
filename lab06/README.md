@@ -3,7 +3,7 @@
 # Aluno
 * `216111`: `<Gabriel Bonfim Silva de Moraes>`
 
-# Análise do Artigo `<título do artigo>`
+# Análise do Artigo `CandiDATA: um dataset para análise das eleições no Brasil`
 
 | campo | valor |
 |------------|----------------------------------------|

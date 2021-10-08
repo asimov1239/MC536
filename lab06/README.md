@@ -1,15 +1,7 @@
-# Modelo para Apresentação do Lab06 - Artigo de Dataset Público
-
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagem usados na tarefa (se houver)
-~~~
+# Lab06 - Artigo de Dataset Público
 
 # Aluno
-* `RA`: `<nome completo>`
+* `216111`: `<Gabriel Bonfim Silva de Moraes>`
 
 # Análise do Artigo `<título do artigo>`
 

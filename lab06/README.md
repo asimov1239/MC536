@@ -7,10 +7,10 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `<https://sites.google.com/view/sbbd-dsw/artigos?authuser=0>` |
-| link       | `<https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view>` |
-| dataset | `<https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1>` |
-| formato | `<Arquivos CSV e PDF>` |
+| referência | `https://sites.google.com/view/sbbd-dsw/artigos?authuser=0` |
+| link       | `https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view` |
+| dataset | `https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1` |
+| formato | `Arquivos CSV e PDF` |
 
 ## Resumo
 

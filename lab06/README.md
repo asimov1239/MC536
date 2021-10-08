@@ -14,7 +14,7 @@
 
 ## Resumo
 
-> O CandiDATA é um dataset com propósito de acumular dados com relação à processos eleitorais na história do Brasil. Dentre os muitos valores encorporados pelo CandiDATA, estão:
+O CandiDATA é um dataset com propósito de acumular dados com relação à processos eleitorais na história do Brasil. Dentre os muitos valores encorporados pelo CandiDATA, estão:
 
 * Candidatos
 * Comparecimento e Abstenção
@@ -26,10 +26,16 @@
 * Processual
 * Resultados
 
+Isto é, possuem informações gerais datando de 1945 até 2020. Mesmo tendo diversos erros de padronização no site do TSE, o CandiDATA ainda pode ser muito utilizado para fazer pesquisas.
+
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+* Qual a tendência de partidos nas últimas décadas?
+* Quais as relações entre o movimento político no Brasil e o contexto histórico mundial?
+* Existe uma tendência de votos com o passar do tempo?
+* Análise de perfil de candidatos com o passar do tempo, suas personalidades, cor de pele, gênero, orientação sexual, entre outros.
+* Análise da quantidade de partidos com o passar do tempo.
+* Muitas outras perguntas...
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.

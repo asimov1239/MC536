@@ -6,6 +6,7 @@
 
 ## Modelo Lógico
 
+![image info](data/modelologico.jpg)
 
 ## Perguntas
 
